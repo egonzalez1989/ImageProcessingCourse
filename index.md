@@ -1,5 +1,5 @@
 ---
-title: Digital Imag Processing
+title: Digital Image Processing
 layout: home
 ---
 
