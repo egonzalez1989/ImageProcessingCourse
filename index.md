@@ -7,10 +7,10 @@ Nowadays an important segment in the analysis and production of contents corresp
 
 The methods and techniques reviewed in this course will allow the student:
 
-Apply classical methods to improve the quality of an image.
-Apply classical methods for image segmentation.
-Apply basic image analysis and synthesis processes.
-Combine pattern recognition techniques for image classification and analysis.
-Propose creative solutions to digital image processing (DIP) application problems.
-Discuss the performance of a proposed solution.
-Discuss the relevance of using particular DIT methods in solving specific applications.
+- Apply classical methods to improve the quality of an image.
+- Apply classical methods for image segmentation.
+- Apply basic image analysis and synthesis processes.
+- Combine pattern recognition techniques for image classification and analysis.
+- Propose creative solutions to digital image processing (DIP) application problems.
+- Discuss the performance of a proposed solution.
+- Discuss the relevance of using particular DIT methods in solving specific applications.
